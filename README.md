@@ -27,6 +27,7 @@
 Just open `index.html` in a browser — no setup needed.
 
 ---
+
 ## 🧑‍💻 Author
 
 **LOKESH K**
