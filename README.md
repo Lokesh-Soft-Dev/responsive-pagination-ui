@@ -24,7 +24,8 @@
 --- ~~~
 ```
 ## Usage
-Just open `index.html` in a browser — no setup needed.
+
+> Just open `index.html` in a browser — no setup needed.
 
 ---
 
