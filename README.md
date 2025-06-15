@@ -3,7 +3,7 @@
   - A simple and responsive web interface that demonstrates paginated content loading using vanilla JavaScript. <br>
   
   - It includes a modern navbar, mobile-friendly design, and smooth UI animations.
-
+---
 ## Live Demo: https://lokesh-soft-dev.github.io/responsive-pagination-ui/
 ---
 ## 🚀 Features
