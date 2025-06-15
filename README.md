@@ -5,7 +5,7 @@
   - It includes a modern navbar, mobile-friendly design, and smooth UI animations.
 
 ## Live Demo: https://lokesh-soft-dev.github.io/responsive-pagination-ui/
-
+---
 ## 🚀 Features
 
 - Responsive navigation bar with hamburger toggle
@@ -13,7 +13,7 @@
 - Auto-grid layout for content cards
 - Animated transitions and hover effects
 - Pure HTML, CSS, and JavaScript (no libraries or frameworks)
-
+---
 ## 📂 Project Structure
 
 ```plaintext
@@ -23,6 +23,8 @@
 ├── script.js         # Pagination logic and interactivity
 --- ~~~
 ```
+
+---
 ## Usage
 
 > Just open `index.html` in a browser — no setup needed.
